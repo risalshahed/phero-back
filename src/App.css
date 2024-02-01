@@ -11,3 +11,8 @@ html, body {
 button {
   cursor: pointer;
 }
+
+/* header */
+header nav li {
+  text-transform: uppercase;
+}

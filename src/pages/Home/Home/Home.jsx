@@ -1,9 +1,11 @@
-import React from 'react'
+import Banner from "../Banner/Banner";
+import Category from "../Category/Category";
 
 export default function Home() {
   return (
     <div>
-      <h2 className='py-4 text-center font-semibold text-2xl'>Home Sweet Home</h2>
+      <Banner />
+      <Category />
     </div>
   )
 }
