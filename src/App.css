@@ -26,13 +26,3 @@ header nav li {
   background-position: center center;
   background-attachment: fixed;
 }
-/* featured */
-.cover-image {
-  /* background-image: url('./assets/menu/banner3.jpg'); */
-  /* background: linear-gradient(rgba(15, 15, 15, 0.5), rgba(15, 15, 15, 0.5)), url('./assets/menu/banner3.jpg'); */
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-  min-height: 80vh;
-  /* background-attachment: fixed; */
-}
